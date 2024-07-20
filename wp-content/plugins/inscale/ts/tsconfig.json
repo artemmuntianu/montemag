@@ -1,0 +1,17 @@
+{
+    "compileOnSave": true,
+	"compilerOptions": {
+		"allowJs": true,
+		"allowUnusedLabels": true,
+		"charset": "utf-8",
+		"module": "commonjs",
+		"moduleResolution": "node",
+		"noFallthroughCasesInSwitch": false,
+		"pretty": false,
+		"removeComments": true,
+		"target": "es5",
+		"lib": ["es5", "es2015", "dom"],
+		"sourceMap": true,
+		"outDir": "../assets/js"
+	}
+}

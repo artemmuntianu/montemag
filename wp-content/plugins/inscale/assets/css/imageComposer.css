@@ -1,0 +1,7 @@
+#is-image-composer-container .editor {
+    background-size: contain;
+}
+
+#is-image-composer-container .product-image {
+    background-size: contain; 
+}
